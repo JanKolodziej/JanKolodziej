@@ -15,13 +15,25 @@ I am a passionate **.NET C# Developer** focused on building efficient desktop ap
 
 ---
 
-### 🔭 Current Showcase
+## 🚀 Currently Working On: Personal Finance Manager
 
-I'm currently developing **Portfolio Tracker** – a robust .NET MAUI desktop application for tracking investment performance.
+I am developing a modern mobile application for personal budget management using **.NET MAUI**. The project focuses on Clean Architecture and a contemporary user interface (Dark Mode / Fintech Style).
 
-- 📊 **Architecture:** MVVM, Clean Architecture
-- 🛠️ **Tech:** C# 12, .NET 8, SQLite, LiveCharts2
-- 🔗 **Check it out:** [Portfolio-Tracker Repository](https://github.com/JanKolodziej/Portfolio-Tracker)
+### 🛠️ Tech Stack:
+* **Framework:** .NET MAUI (.NET 8)
+* **Architecture:** MVVM (CommunityToolkit.Mvvm)
+* **Database:** SQLite + Entity Framework Core
+* **Visualization:** LiveCharts2 (Cartesian & Pie charts)
+* **Key Concepts:** Dependency Injection, Shell Navigation, Asynchronous Programming
+
+### 🎯 Key Features:
+* [x] Adding income and expenses
+* [x] Interactive charts and financial statistics
+* [x] Transaction grouping by date
+* [x] Full transaction editing and deletion (In Progress)
+* [ ] Budget planning
+* [ ] "Gamification" 
+* 🔗 **Check it out:** https://github.com/JanKolodziej/Wild-Wallet
 
 ---
 
